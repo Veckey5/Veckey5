@@ -6,7 +6,7 @@
 - 💬 Ask me about ...any tech-related works
 - 📫 How to reach me: 
 [Twitter](https://mobile.twitter.com/EmesamaVictoria)
-[LinkedIn](https://www.linkedin.com/in/victoria-emesama-822160a176)
+[LinkedIn](https://www.linkedin.com/in/victoria-emesama-82160a176/)
 [Instagram](https://www.instagram.com/victoria_blessing-/)
 - 😄 Pronouns:... She/her
 - ⚡ Fun fact: ...Bring on the gists! 
