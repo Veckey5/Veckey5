@@ -1,0 +1,42 @@
+header{
+  font-style:italic;
+  color:red;
+  text-align:center;
+}
+p{
+  text-align:center;
+  font-style:italic;
+}
+
+h2{
+  text-align:center;
+  font-style:italic;
+}
+
+form{
+  margin:auto;
+  background-color:rgba(15,156,91,1);
+  border-radius:2rem;
+  width:500px;
+  padding: 2.4rem 2.4rem;
+}
+.form-data{
+  display:block;
+  width:100%;
+  height:2rem;
+  padding:0.3 rem;
+}
+
+.submit-button{
+cursor:pointer; 
+width:100%;
+height:1.7rem;
+color:white;
+background:red;
+border-radius:2px;
+}
+
+.dropdown-data{
+  width:500px;
+  height:20px;
+}

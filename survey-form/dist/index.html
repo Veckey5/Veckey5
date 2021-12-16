@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Survey Form</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<header>
+  <h1 id="title"><b>Michelle Creations<b></h1>
+</header>
+<body>
+<p id="description"> Let us know you!</p>
+<h2>*All details are required.</h2>
+
+<form id="survey-form">  
+  <br>
+ <label for="name" id="name-label">*NAME <input id="name" type="text" placeholder="enter full name" class="form-data"required></label>
+<br>
+<label for="email" id="email-label"> *E-MAIL <input id="email" type="email" placeholder="ekan@michellec.com" class="form-data"required></label>
+<br>
+<label for="number" id="number-label">*AGE <input id="number" type="number" placeholder="16" min="15" max="35" class="form-data"required></label>
+ <br>
+  <label for="dropdown" id="knowledge">Area of expertise</label>
+  <select id="dropdown" class= "dropdown-data">
+    <option disabled selected value><br> Select your expertise </option>
+    
+<option value="Embroidery">Embroidery</option>
+    <br>
+  <option value="Agbada_Wears">Agbada Wears</option>
+    <br>
+     <option value="Ladies'_Wears">Ladies' Wears</option>
+    <br>
+     <option value="Corporate_Outfits">Corporate Outfits</option>
+  </select>
+<br>
+  <br>
+  <label for= "Your_desired_training_platform" id="desired_training_platform"> Your Desired Training Location </label>
+<br>
+  <br>
+ <Label for="1"><input id="1" type="radio" name="desired_training_platform" value="Zoom">Zoom</label>
+  <br>
+ <Label for="2"><input id="2" type="radio" name="desired_training_platform" value="Whatsapp">Whatsapp</label>
+    <br>
+    <Label for="3"><input id="3" type="radio" name="desired_training_platform" value="Telegram">Telegram</label>
+<br>
+<Label for="4"><input id="4" type="radio" name="desired_training_platform" value="Fashion School">Fashion School</label>
+    <br>  
+  <br>
+  <label for="duration" id= "duration">How long would love your training to be?</label>
+  <br>
+  <br>
+<label for="a"><input id="a" value="12 months" type="checkbox" name="duration">12 months</label>
+    <br>
+<label for="b"><input id="b" value= "18 months" type="checkbox" name="duration">18 months</label>
+        <br>
+<label for="c"><input id="c" value="24 months" type="checkbox" name="duration">24 months</label>
+    <br>
+  <br>
+  <label for="textarea">Comments </label>
+  <br>
+  <br>
+  <textarea id="textarea" name="more information" rows="10" cols="50">
+  </textarea>
+  <br>
+  <br>
+  <input id="submit" type="submit" value="submit" rows="21" class="submit-button"><br>
+  </form>
+  </body>
+<!-- partial -->
+  <script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
