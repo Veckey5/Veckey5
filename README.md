@@ -3,6 +3,7 @@ I'm Vickie!
 I enjoy data analysis and storytelling to give startegic business insights.
 
 Repositories contain my projects using various tools:
+
 Apache Spark
 
 SQL
