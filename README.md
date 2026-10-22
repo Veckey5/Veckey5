@@ -30,7 +30,7 @@ My work covers data modelling, dashboard development, root-cause analysis, KPI r
 
 | 🔁 **45%** | ⏱️ **10+ hrs/week** | 📉 **60%** | ✅ **92%** |
 |:---:|:---:|:---:|:---:|
-| improvement in customer retention | of manual reporting automated | reduction in avoidable policy lapses | data accuracy improvement |
+| increase in customer retention | of manual reporting automated | reduction in avoidable policy lapses | data accuracy improvement |
 
 ---
 
