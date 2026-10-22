@@ -138,12 +138,3 @@ My work covers data modelling, dashboard development, root-cause analysis, KPI r
 - 🤝 Open to BI Analyst and Data Analyst opportunities and collaborations
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Veckey5&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veckey5&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center"><i>Let's connect. I'd love to hear about the data problems you're solving.</i></p>
