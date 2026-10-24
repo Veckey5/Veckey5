@@ -111,24 +111,6 @@ My work covers data modelling, dashboard development, root-cause analysis, KPI r
 - 🎓 MSc, Data Analytics: University of Portsmouth
 - 🎓 BSc, Economics: University of Nigeria, Nsukka
 
-**Certifications**
-- 📜 Databricks Fundamentals
-- 📜 SQL for Data Analysis
-- 📜 Data Analytics: Dashboards vs. Data Stories
-- 📜 Data Analytics: Graph Analytics
-
----
-
-## 🚀 Featured Projects
-
-> Replace the rows below with your best repos. Add a README to each one with the business question, data, approach, and a screenshot.
-
-| Project | Problem & Result | Tools |
-|---|---|---|
-| [Customer Churn Analysis](https://github.com/Veckey5/REPO-NAME) | Segmentation and funnel analysis to find drop-off drivers | Python, SQL |
-| [Policy Lapse Dashboard](https://github.com/Veckey5/REPO-NAME) | KPI reporting and root-cause view of cancellations | Power BI, DAX |
-| [ETL Pipeline](https://github.com/Veckey5/REPO-NAME) | Automated reporting workflow replacing manual steps | Azure, Databricks |
-
 ---
 
 ## 🌱 Currently
