@@ -108,7 +108,7 @@ My work covers data modelling, dashboard development, root-cause analysis, KPI r
 ## 🎓 Education & Certifications
 
 **Education**
-- 🎓 MSc, Data Analytics: University of Portsmouth
+- 🎓 MSc, Data Analytics: University of Portsmouth, United Kingdom
 - 🎓 BSc, Economics: University of Nigeria, Nsukka
 
 ---
