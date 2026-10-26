@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Victoria 👋</h1>
 
-<h3 align="center">Business Intelligence Analyst · Data Analyst</h3>
+<h3 align="center">Business Intelligence Analyst · Data Analyst · Analytics Engineer</h3>
 
 <p align="center">
   <i>I turn complex data into clear insights that help businesses make better decisions.</i>
